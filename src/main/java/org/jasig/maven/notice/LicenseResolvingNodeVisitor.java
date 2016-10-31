@@ -51,18 +51,21 @@ class LicenseResolvingNodeVisitor implements DependencyNodeVisitor {
     private final List<?> remoteArtifactRepositories;
     private final MavenProjectBuilder mavenProjectBuilder;
     private final ArtifactRepository localRepository;
+    private final boolean useArtifactQualifiedName;
     
     LicenseResolvingNodeVisitor(Log logger,
             LicenseLookupHelper licenseLookupHelper, 
             List<?> remoteArtifactRepositories,
             MavenProjectBuilder mavenProjectBuilder,
-            ArtifactRepository localRepository) {
+            ArtifactRepository localRepository,
+            boolean useArtifactQualifiedName) {
         
         this.logger = logger;
         this.licenseLookupHelper = licenseLookupHelper;
         this.remoteArtifactRepositories = remoteArtifactRepositories;
         this.mavenProjectBuilder = mavenProjectBuilder;
         this.localRepository = localRepository;
+        this.useArtifactQualifiedName = useArtifactQualifiedName;
     }
     
     public Map<String, String> getResolvedLicenses() {
@@ -84,7 +87,7 @@ class LicenseResolvingNodeVisitor implements DependencyNodeVisitor {
             
             String name = null;
             String licenseName = null;
-            
+
             //Look for a matching mapping first
             final ResolvedLicense resolvedLicense = this.loadLicenseMapping(artifact);
             if (resolvedLicense != null && resolvedLicense.getVersionType() != null) {
@@ -139,6 +142,8 @@ class LicenseResolvingNodeVisitor implements DependencyNodeVisitor {
             //If no name is found fall back to groupId:artifactId
             if (name == null) {
                 name = artifact.getGroupId() + ":" + artifact.getArtifactId();
+            } else if (useArtifactQualifiedName) {
+                name += " (" + artifact.getGroupId() + ":" + artifact.getArtifactId() + ")";
             }
             
             //Record the artifact resolution outcome

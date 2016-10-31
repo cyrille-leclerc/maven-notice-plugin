@@ -212,7 +212,14 @@ public abstract class AbstractNoticeMojo extends AbstractMojo {
      * @parameter default-value="  {0} under {1}"
      */
     protected String noticeMessage = "  {0} under {1}";
-    
+
+    /**
+     * Always use the artifact qualified name ("groupId:artifactId")
+     *
+     * @parameter default-value="false"
+     */
+    protected boolean useArtifactQualifiedName = false;
+
     private MessageFormat parsedNoticeMessage;
     
     /**
@@ -257,26 +264,32 @@ public abstract class AbstractNoticeMojo extends AbstractMojo {
         final LicenseResolvingNodeVisitor visitor = new LicenseResolvingNodeVisitor(
                 logger,
                 licenseLookupHelper, remoteArtifactRepositories, 
-                this.mavenProjectBuilder, this.localRepository);
+                this.mavenProjectBuilder, this.localRepository,
+                useArtifactQualifiedName);
 
         this.parseProject(this.project, visitor);
      
         //Check for any unresolved artifacts
         final Set<Artifact> unresolvedArtifacts = visitor.getUnresolvedArtifacts();
         this.checkUnresolved(unresolvedArtifacts);
-        
+        handleNotice(finder, visitor);
+
+
+    }
+
+    protected void handleNotice(ResourceFinder finder, LicenseResolvingNodeVisitor visitor) throws MojoFailureException {
         //Convert the resovled notice data into a String
         final Map<String, String> resolvedLicenses = visitor.getResolvedLicenses();
         final String noticeLines = this.generateNoticeLines(resolvedLicenses);
         final String noticeTemplateContents = this.readNoticeTemplate(finder);
-        
+
         //Replace the template placeholder with the generated notice data
-        final String noticeContents = noticeTemplateContents.replaceAll(Pattern.quote(this.noticeTemplatePlaceholder), noticeLines);        
-        
+        final String noticeContents = noticeTemplateContents.replaceAll(Pattern.quote(this.noticeTemplatePlaceholder), noticeLines);
+
         //Let the subclass deal with the generated NOTICE file
         this.handleNotice(finder, noticeContents);
     }
-    
+
     /**
      * Called with the expected NOTICE file contents for this project.
      */
