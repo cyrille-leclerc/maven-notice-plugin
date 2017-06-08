@@ -1,0 +1,1857 @@
+<artifacts>
+    <!-- CJE 16.06 -->
+    <artifact>
+        <artifactId>"Java Concurrency in Practice" book annotations (net.jcip:jcip-annotations)</artifactId>
+        <license>Creative Commons Attribution License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Acegi Security Core (org.acegisecurity:acegi-security)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>activation (org.jvnet.hudson:activation)</artifactId>
+        <license>COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Active Directory typelib for com4j (org.jvnet.com4j.typelibs:active-directory)</artifactId>
+        <license>BSD license</license>
+    </artifact>
+    <artifact>
+        <artifactId>ADO 2.0 typelib for com4j (org.jvnet.com4j.typelibs:ado20)</artifactId>
+        <license>BSD license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Aether API (org.eclipse.aether:aether-api)</artifactId>
+        <license>Eclipse Public License, Version 1.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Aether Connector Wagon (org.eclipse.aether:aether-connector-wagon)</artifactId>
+        <license>Eclipse Public License, Version 1.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Aether Implementation (org.eclipse.aether:aether-impl)</artifactId>
+        <license>Eclipse Public License, Version 1.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Aether SPI (org.eclipse.aether:aether-spi)</artifactId>
+        <license>Eclipse Public License, Version 1.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Aether Transport Wagon (org.eclipse.aether:aether-transport-wagon)</artifactId>
+        <license>Eclipse Public License, Version 1.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Aether Utilities (org.eclipse.aether:aether-util)</artifactId>
+        <license>Eclipse Public License, Version 1.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Amazon Web Services SDK (org.jenkins-ci.plugins:aws-java-sdk)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Animal Sniffer Annotations (org.codehaus.mojo:animal-sniffer-annotations)</artifactId>
+        <license>MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Annotation Indexer (org.jenkins-ci:annotation-indexer)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>annotations (findbugs:annotations)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AntLR (antlr:antlr)</artifactId>
+        <license>BSD License</license>
+    </artifact>
+    <artifact>
+        <artifactId>AOP alliance (aopalliance:aopalliance)</artifactId>
+        <license>Public Domain</license>
+    </artifact>
+    <artifact>
+        <artifactId>Apache Ant Core (org.apache.ant:ant)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Apache Ant Launcher (org.apache.ant:ant-launcher)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Apache Commons Compress (org.apache.commons:commons-compress)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Apache Commons FileUpload (commons-fileupload:commons-fileupload)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Apache Commons Lang (org.apache.commons:commons-lang3)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Apache Log4j (log4j:log4j)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Apache Maven Wagon :: API (org.apache.maven.wagon:wagon-provider-api)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Apache Maven Wagon :: Providers :: File Provider (org.apache.maven.wagon:wagon-file)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Apache Maven Wagon :: Providers :: FTP Provider (org.apache.maven.wagon:wagon-ftp)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Apache Maven Wagon :: Providers :: HTTP Provider (org.apache.maven.wagon:wagon-http)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Apache Maven Wagon :: Providers :: HTTP Shared Library (org.apache.maven.wagon:wagon-http-shared)
+        </artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Apache Maven Wagon :: Providers :: HTTP Shared Library 4
+            (org.apache.maven.wagon:wagon-http-shared4)
+        </artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Apache Maven Wagon :: Providers :: SSH Common Library (org.apache.maven.wagon:wagon-ssh-common)
+        </artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Apache Maven Wagon :: Providers :: SSH External Provider
+            (org.apache.maven.wagon:wagon-ssh-external)
+        </artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Apache Maven Wagon :: Providers :: SSH Provider (org.apache.maven.wagon:wagon-ssh)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Apache Maven Wagon :: Providers :: WebDav Provider
+            (org.apache.maven.wagon:wagon-webdav-jackrabbit)
+        </artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Apache Mina SSHD :: Core (org.apache.sshd:sshd-core)</artifactId>
+        <license>Apache 2.0 License</license>
+    </artifact>
+    <artifact>
+        <artifactId>args4j (args4j:args4j)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>ASM Analysis (org.ow2.asm:asm-analysis)</artifactId>
+        <license>BSD</license>
+    </artifact>
+    <artifact>
+        <artifactId>ASM Commons (org.ow2.asm:asm-commons)</artifactId>
+        <license>BSD</license>
+    </artifact>
+    <artifact>
+        <artifactId>ASM Core (org.ow2.asm:asm)</artifactId>
+        <license>BSD</license>
+    </artifact>
+    <artifact>
+        <artifactId>ASM Tree (org.ow2.asm:asm-tree)</artifactId>
+        <license>BSD</license>
+    </artifact>
+    <artifact>
+        <artifactId>ASM Util (org.ow2.asm:asm-util)</artifactId>
+        <license>BSD</license>
+    </artifact>
+    <artifact>
+        <artifactId>asm5 (org.kohsuke:asm5)</artifactId>
+        <license>BSD License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Async Http Client (org.jenkins-ci.plugins:async-http-client)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Asynchronous Http Client (com.ning:async-http-client)</artifactId>
+        <license>Apache License 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Authentication Tokens API Plugin (org.jenkins-ci.plugins:authentication-tokens)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Amazon CloudFront (com.amazonaws:aws-java-sdk-cloudfront)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Amazon CloudSearch (com.amazonaws:aws-java-sdk-cloudsearch)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Amazon CloudWatch (com.amazonaws:aws-java-sdk-cloudwatch)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Amazon CloudWatch Logs (com.amazonaws:aws-java-sdk-logs)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Amazon Cognito Identity (com.amazonaws:aws-java-sdk-cognitoidentity)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Amazon Cognito Sync (com.amazonaws:aws-java-sdk-cognitosync)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Amazon DynamoDB (com.amazonaws:aws-java-sdk-dynamodb)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Amazon EC2 (com.amazonaws:aws-java-sdk-ec2)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Amazon Elastic File System (com.amazonaws:aws-java-sdk-efs)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Amazon Elastic Transcoder (com.amazonaws:aws-java-sdk-elastictranscoder)
+        </artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Amazon ElastiCache (com.amazonaws:aws-java-sdk-elasticache)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Amazon Elasticsearch Service (com.amazonaws:aws-java-sdk-elasticsearch)
+        </artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Amazon EMR (com.amazonaws:aws-java-sdk-emr)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Amazon Glacier (com.amazonaws:aws-java-sdk-glacier)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Amazon Inspector Service (com.amazonaws:aws-java-sdk-inspector)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Amazon Kinesis (com.amazonaws:aws-java-sdk-kinesis)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Amazon Machine Learning (com.amazonaws:aws-java-sdk-machinelearning)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Amazon RDS (com.amazonaws:aws-java-sdk-rds)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Amazon Redshift (com.amazonaws:aws-java-sdk-redshift)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Amazon Route53 (com.amazonaws:aws-java-sdk-route53)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Amazon S3 (com.amazonaws:aws-java-sdk-s3)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Amazon SES (com.amazonaws:aws-java-sdk-ses)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Amazon SimpleDB (com.amazonaws:aws-java-sdk-simpledb)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Amazon SNS (com.amazonaws:aws-java-sdk-sns)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Amazon SQS (com.amazonaws:aws-java-sdk-sqs)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Amazon SWF (com.amazonaws:aws-java-sdk-simpleworkflow)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Amazon WorkSpaces (com.amazonaws:aws-java-sdk-workspaces)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Auto Scaling (com.amazonaws:aws-java-sdk-autoscaling)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for AWS CloudFormation (com.amazonaws:aws-java-sdk-cloudformation)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for AWS CloudTrail (com.amazonaws:aws-java-sdk-cloudtrail)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for AWS CodeCommit (com.amazonaws:aws-java-sdk-codecommit)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for AWS CodeDeploy (com.amazonaws:aws-java-sdk-codedeploy)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for AWS CodePipeline (com.amazonaws:aws-java-sdk-codepipeline)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for AWS Config (com.amazonaws:aws-java-sdk-config)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for AWS Data Pipeline (com.amazonaws:aws-java-sdk-datapipeline)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for AWS Device Farm (com.amazonaws:aws-java-sdk-devicefarm)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for AWS Direct Connect (com.amazonaws:aws-java-sdk-directconnect)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for AWS Directory Service (com.amazonaws:aws-java-sdk-directory)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for AWS Elastic Beanstalk (com.amazonaws:aws-java-sdk-elasticbeanstalk)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for AWS IAM (com.amazonaws:aws-java-sdk-iam)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for AWS Import/Export (com.amazonaws:aws-java-sdk-importexport)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for AWS IoT (com.amazonaws:aws-java-sdk-iot)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for AWS KMS (com.amazonaws:aws-java-sdk-kms)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for AWS Lambda (com.amazonaws:aws-java-sdk-lambda)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for AWS Marketplace Commerce Analytics
+            (com.amazonaws:aws-java-sdk-marketplacecommerceanalytics)
+        </artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for AWS OpsWorks (com.amazonaws:aws-java-sdk-opsworks)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for AWS Storage Gateway (com.amazonaws:aws-java-sdk-storagegateway)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for AWS STS (com.amazonaws:aws-java-sdk-sts)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for AWS Support (com.amazonaws:aws-java-sdk-support)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for AWS WAF (com.amazonaws:aws-java-sdk-waf)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for Elastic Load Balancing (com.amazonaws:aws-java-sdk-elasticloadbalancing)
+        </artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for the Amazon EC2 Container Service (com.amazonaws:aws-java-sdk-ecs)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for the AWS CloudHSM (com.amazonaws:aws-java-sdk-cloudhsm)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS Java SDK for the AWS Simple Systems Management (SSM) Service (com.amazonaws:aws-java-sdk-ssm)
+        </artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS SDK For Java (com.amazonaws:aws-java-sdk)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>AWS SDK for Java - Core (com.amazonaws:aws-java-sdk-core)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs
+            (org.bouncycastle:bcpkix-jdk15on)
+        </artifactId>
+        <license>Bouncy Castle Licence</license>
+    </artifact>
+    <artifact>
+        <artifactId>Bouncy Castle Provider (org.bouncycastle:bcprov-jdk15on)</artifactId>
+        <license>Bouncy Castle Licence</license>
+    </artifact>
+    <artifact>
+        <artifactId>Branch API Plugin (org.jenkins-ci.plugins:branch-api)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Bridge method injection annotations (com.infradna.tool:bridge-method-annotation)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Build View Column Plugin (org.jenkins-ci.plugins:build-view-column)</artifactId>
+        <license>MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Bytecode transformation-based library for managing backward compatibility
+            (org.jenkins-ci:bytecode-compatibility-transformer)
+        </artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>CDI APIs (javax.enterprise:cdi-api)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Amazon AWS CLI Plugin (com.cloudbees.jenkins.plugins:cloudbees-aws-cli)</artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Amazon Web Services Credentials Plugin
+            (com.cloudbees.jenkins.plugins:cloudbees-aws-credentials)
+        </artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Amazon Web Services Credentials Plugin (org.jenkins-ci.plugins:aws-credentials)
+        </artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Amazon Web Services Deploy Engine Plugin
+            (com.cloudbees.jenkins.plugins:cloudbees-aws-deployer)
+        </artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Back-up Plugin (com.infradna.hudson.plugins:infradna-backup)</artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Bitbucket Cloud Branch Source Plugin
+            (com.cloudbees.jenkins.plugins:cloudbees-bitbucket-branch-source)
+        </artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Consolidated Build View Plugin
+            (com.cloudbees.jenkins.plugins:cloudbees-consolidated-build-view)
+        </artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Docker Build and Publish plugin (org.jenkins-ci.plugins:docker-build-publish)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Docker Hub Notification (org.jenkins-ci.plugins:dockerhub-notification)</artifactId>
+        <license>MIT</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Docker Traceability (org.jenkins-ci.plugins:docker-traceability)</artifactId>
+        <license>MIT</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Docker Workflow (org.jenkins-ci.plugins:docker-workflow)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Even Scheduler Plugin (com.cloudbees.nectar.plugins:cloudbees-even-scheduler)</artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Fast Archiving Plugin (com.cloudbees.jenkins.plugins:cloudbees-jsync-archiver)
+        </artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Folders Plugin (org.jenkins-ci.plugins:cloudbees-folder)</artifactId>
+        <license>MIT</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Folders Plus Plugin (com.cloudbees.jenkins.plugins:cloudbees-folders-plus)</artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Git Validated Merge Plugin (com.cloudbees.jenkins.plugins:git-validated-merge)
+        </artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees GitHub Branch Source Plugin (org.jenkins-ci.plugins:github-branch-source)</artifactId>
+        <license>MIT</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees GitHub Pull Requests Plugin
+            (com.cloudbees.jenkins.plugins:cloudbees-github-pull-requests)
+        </artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Groovy View Plugin (com.cloudbees.jenkins.plugins:cloudbees-groovy-view)</artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees High Availability Management plugin (com.cloudbees.jenkins.plugins:cloudbees-ha)
+        </artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Jenkins Enterprise (com.cloudbees.jenkins.main:jenkins-enterprise-war)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Jenkins Enterprise License Entitlement Check
+            (com.cloudbees.nectar.plugins:nectar-license)
+        </artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Label Throttling Plugin (com.cloudbees.nectar.plugins:cloudbees-label-throttling-plugin)
+        </artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees License Manager (com.cloudbees.nectar.plugins:cloudbees-license)</artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Long-Running Build Plugin (com.cloudbees.jenkins.plugins:cloudbees-long-running-build)
+        </artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Monitoring Plugin (com.cloudbees.jenkins.plugins:cloudbees-monitoring)</artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Nodes Plus Plugin (com.cloudbees.jenkins.plugins:cloudbees-nodes-plus)</artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Pipeline (formerly known as CloudBees Workflow)
+            (com.cloudbees.jenkins.plugins.workflow:cloudbees-workflow-aggregator)
+        </artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Pipeline: Groovy Checkpoint Plugin
+            (com.cloudbees.jenkins.plugins.workflow:workflow-cps-checkpoint)
+        </artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Pipeline: REST API Plugin
+            (com.cloudbees.jenkins.plugins.workflow:cloudbees-workflow-rest-api)
+        </artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Pipeline: Stage View (com.cloudbees.jenkins.plugins.workflow:cloudbees-workflow-ui)
+        </artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Pipeline: Templates Plugin
+            (com.cloudbees.jenkins.plugins.workflow:cloudbees-workflow-template)
+        </artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Plugin Usage Plugin (com.cloudbees.jenkins.plugins:cloudbees-plugin-usage)</artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Pull Request Builder for GitHub
+            (com.cloudbees.jenkins.plugins:github-pull-request-build)
+        </artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Quiet Start Plugin (com.cloudbees.jenkins.plugins:cloudbees-quiet-start)</artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Restart Aborted Builds Plugin (com.cloudbees.jenkins.plugins:cloudbees-aborted-builds)
+        </artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Role-Based Access Control Plugin (com.cloudbees.nectar:nectar-rbac)</artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Secure Copy Plugin (com.cloudbees.jenkins.plugins:cloudbees-secure-copy)</artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Skip Next Build Plugin (com.cloudbees.nectar.plugins:skip-plugin)</artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees SSH Slaves Plugin (com.cloudbees.jenkins.plugins:cloudbees-ssh-slaves)</artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Support Plugin (com.cloudbees.jenkins.plugins:cloudbees-support)</artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Template Plugin (com.cloudbees.nectar.plugins:cloudbees-template)</artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees View Creation Filter Plugin
+            (com.cloudbees.jenkins.plugins:cloudbees-view-creation-filter)
+        </artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees VMWare Autoscaling Plugin (com.cloudbees.nectar:nectar-vmware)</artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees Wasted Minutes Tracker Plugin
+            (com.cloudbees.jenkins.plugins:cloudbees-wasted-minutes-tracker)
+        </artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudBees WikiText Security Plugin (com.cloudbees.nectar.plugins:wikitext)</artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>CloudWatch Metrics for AWS Java SDK (com.amazonaws:aws-java-sdk-cloudwatchmetrics)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>CodeMirror library from http://codemirror.net/ (org.kohsuke.stapler:stapler-adjunct-codemirror)
+        </artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>com4j (org.jvnet.com4j:com4j)</artifactId>
+        <license>MIT</license>
+    </artifact>
+    <artifact>
+        <artifactId>Commons BeanUtils (commons-beanutils:commons-beanutils)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Commons CLI (commons-cli:commons-cli)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Commons Codec (commons-codec:commons-codec)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Commons Collections (commons-collections:commons-collections)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Commons Digester (commons-digester:commons-digester)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Commons IO (commons-io:commons-io)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Commons JEXL (org.jenkins-ci:commons-jexl)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Commons Lang (commons-lang:commons-lang)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Commons Logging (commons-logging:commons-logging)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Commons Net (commons-net:commons-net)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>commons-jelly (org.jenkins-ci:commons-jelly)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>commons-jelly-tags-define (org.jvnet.hudson:commons-jelly-tags-define)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>commons-jelly-tags-fmt (commons-jelly:commons-jelly-tags-fmt)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>commons-jelly-tags-xml (commons-jelly:commons-jelly-tags-xml)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>confluence.core (com.cloudbees.wikitext:confluence.core)</artifactId>
+        <license>Eclipse Public License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Constant Pool Scanner (org.jenkins-ci:constant-pool-scanner)</artifactId>
+        <license>NetBeans CDDL/GPL</license>
+    </artifact>
+    <artifact>
+        <artifactId>Copy Artifact Plugin (org.jenkins-ci.plugins:copyartifact)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>core (com.cloudbees.wikitext:core)</artifactId>
+        <license>Eclipse Public License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Credentials Plugin (org.jenkins-ci.plugins:credentials)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Custom Acess Modifier annotations (org.kohsuke:access-modifier-annotation)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Dashboard View (org.jenkins-ci.plugins:dashboard-view)</artifactId>
+        <license>MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Data Mapper for Jackson (org.codehaus.jackson:jackson-mapper-asl)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Deployed On Column Plugin (org.jenkins-ci.plugins:deployed-on-column)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Deployer Framework Plugin (org.jenkins-ci.plugins:deployer-framework)</artifactId>
+        <license>MIT</license>
+    </artifact>
+    <artifact>
+        <artifactId>Discovery (commons-discovery:commons-discovery)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Docker Commons Plugin (org.jenkins-ci.plugins:docker-commons)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>docker-java shaded for CloudBees Docker Traceability
+            (org.jenkins-ci.plugins:docker-java-shaded-traceability)
+        </artifactId>
+        <license>MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>dom4j (org.jenkins-ci.dom4j:dom4j)</artifactId>
+        <license>BSD license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Doxia :: Sink API (org.apache.maven.doxia:doxia-sink-api)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Durable Task Plugin (org.jenkins-ci.plugins:durable-task)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Embeddable daemonization library (org.kohsuke:akuma)</artifactId>
+        <license>MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>embedded_su for Java (com.sun.solaris:embedded_su4j)</artifactId>
+        <license>MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>endpoints (com.cloudbees:endpoints)</artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>External Monitor Job Type Plugin (org.jenkins-ci.plugins:external-monitor-job)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>ezmorph (net.sf.ezmorph:ezmorph)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Findbugs Annotations under Apache License (com.github.stephenc.findbugs:findbugs-annotations)
+        </artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>FindBugs-Annotations (com.google.code.findbugs:annotations)</artifactId>
+        <license>GNU Lesser Public License</license>
+    </artifact>
+    <artifact>
+        <artifactId>FindBugs-jsr305 (com.google.code.findbugs:jsr305)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Ganymed SSH2 for Java (org.jenkins-ci:trilead-ssh2)</artifactId>
+        <license>BSD style license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Git server plugin (org.jenkins-ci.plugins:git-server)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>GitHub API for Java (org.kohsuke:github-api)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>GitHub API Plugin (org.jenkins-ci.plugins:github-api)</artifactId>
+        <license>The MIT License (MIT)</license>
+    </artifact>
+    <artifact>
+        <artifactId>GitHub plugin (com.coravy.hudson.plugins.github:github)</artifactId>
+        <license>Apache 2</license>
+    </artifact>
+    <artifact>
+        <artifactId>Google Guice - Core Library (com.google.inject:guice)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Groovy (org.codehaus.groovy:groovy-all)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Groovy CPS Execution (com.cloudbees:groovy-cps)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Groovy Sandbox (org.kohsuke:groovy-sandbox)</artifactId>
+        <license>MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Guava: Google Core Libraries for Java (com.google.guava:guava)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>HA head builtin to jenkins.war (com.cloudbees.jenkins.ha:jenkins-ha-warhead)</artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Hamcrest Core (org.hamcrest:hamcrest-core)</artifactId>
+        <license>New BSD License</license>
+    </artifact>
+    <artifact>
+        <artifactId>HttpClient (commons-httpclient:commons-httpclient)</artifactId>
+        <license>Apache License</license>
+    </artifact>
+    <artifact>
+        <artifactId>HttpClient (org.apache.httpcomponents:httpclient)</artifactId>
+        <license>Apache License</license>
+    </artifact>
+    <artifact>
+        <artifactId>HttpCore (org.apache.httpcomponents:httpcore)</artifactId>
+        <license>Apache License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Hudson Maven Artifact Manager (org.jenkins-ci.lib:lib-jenkins-maven-artifact-manager)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Hudson SSH Slaves plugin (org.jvnet.hudson.plugins:ssh-slaves)</artifactId>
+        <license>MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Icon-Set module (org.jenkins-ci.plugins.icon-shim:icon-set)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>ICU4J (com.ibm.icu:icu4j)</artifactId>
+        <license>ICU License</license>
+    </artifact>
+    <artifact>
+        <artifactId>ini4j (org.ini4j:ini4j)</artifactId>
+        <license>Apache 2</license>
+    </artifact>
+    <artifact>
+        <artifactId>iText, a Free Java-PDF library (com.lowagie:itext)</artifactId>
+        <license>Mozilla Public License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jackrabbit WebDAV Library (org.apache.jackrabbit:jackrabbit-webdav)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jackson (org.codehaus.jackson:jackson-core-asl)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jackson 2 API Plugin (org.jenkins-ci.plugins:jackson2-api)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jackson Integration for Metrics (com.codahale.metrics:metrics-json)</artifactId>
+        <license>Apache License 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jackson Integration for Metrics (io.dropwizard.metrics:metrics-json)</artifactId>
+        <license>Apache License 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jackson-annotations (com.fasterxml.jackson.core:jackson-annotations)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jackson-core (com.fasterxml.jackson.core:jackson-core)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>jackson-databind (com.fasterxml.jackson.core:jackson-databind)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jackson-JAXRS-JSON_Provider (com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jackson-module-JAXB-annotations (com.fasterxml.jackson.module:jackson-module-jaxb-annotations)
+        </artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>jansi (org.fusesource.jansi:jansi)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Java binding for libpam.so (org.kohsuke:libpam4j)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Java Libraries for Amazon Simple WorkFlow (com.amazonaws:aws-java-sdk-swf-libraries)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Java Native Access (net.java.dev.jna:jna)</artifactId>
+        <license>LGPL, version 2.1 or ASL, version 2</license>
+    </artifact>
+    <artifact>
+        <artifactId>javadoc (org.jenkins-ci.plugins:javadoc)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Javadoc Plugin (org.jenkins-ci.plugins:javadoc)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>JavaEWAH (com.googlecode.javaewah:JavaEWAH)</artifactId>
+        <license>Apache 2</license>
+    </artifact>
+    <artifact>
+        <artifactId>JavaMail API (compat) (javax.mail:mail)</artifactId>
+        <license>CDDL or GPLv2+CE</license>
+    </artifact>
+    <artifact>
+        <artifactId>JavaMelody - Core (net.bull.javamelody:javamelody-core)</artifactId>
+        <license>ASL</license>
+    </artifact>
+    <artifact>
+        <artifactId>JavaScript GUI Lib: ACE Editor bundle plugin (org.jenkins-ci.ui:ace-editor)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>JavaScript GUI Lib: jQuery bundles (jQuery and jQuery UI) plugin
+            (org.jenkins-ci.ui:jquery-detached)
+        </artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Javassist (org.javassist:javassist)</artifactId>
+        <license>MPL 1.1 or LGPL 2.1 or Apache License 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>javax.annotation API (javax.annotation:javax.annotation-api)</artifactId>
+        <license>CDDL + GPLv2 with classpath exception</license>
+    </artifact>
+    <artifact>
+        <artifactId>javax.inject (javax.inject:javax.inject)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>javax.ws.rs-api (javax.ws.rs:javax.ws.rs-api)</artifactId>
+        <license>CDDL 1.1 or GPL2 w/ CPE</license>
+    </artifact>
+    <artifact>
+        <artifactId>JAX-RS provider for JSON content type (org.codehaus.jackson:jackson-jaxrs)</artifactId>
+        <license>The Apache Software License, Version 2.0 or GNU Lesser General Public License (LGPL), Version 2.1
+        </license>
+    </artifact>
+    <artifact>
+        <artifactId>jaxen (jaxen:jaxen)</artifactId>
+        <license>Apache style license</license>
+    </artifact>
+    <artifact>
+        <artifactId>jbcrypt (org.mindrot:jbcrypt)</artifactId>
+        <license>ISC/BSD License</license>
+    </artifact>
+    <artifact>
+        <artifactId>JBoss Marshalling API (org.jboss.marshalling:jboss-marshalling)</artifactId>
+        <license>Public Domain</license>
+    </artifact>
+    <artifact>
+        <artifactId>JBoss Marshalling River (org.jboss.marshalling:jboss-marshalling-river)</artifactId>
+        <license>Public Domain</license>
+    </artifact>
+    <artifact>
+        <artifactId>jCIFS (org.samba.jcifs:jcifs)</artifactId>
+        <license>GNU Lesser General Public License, version 2.1</license>
+    </artifact>
+    <artifact>
+        <artifactId>JCL 1.1.1 implemented over SLF4J (org.slf4j:jcl-over-slf4j)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>jcommon (jfree:jcommon)</artifactId>
+        <license>GNU Lesser General Public Licence</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jenkins Active Directory plugin (org.jenkins-ci.plugins:active-directory)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jenkins build timeout plugin (org.jenkins-ci.plugins:build-timeout)</artifactId>
+        <license>The MIT License (MIT)</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jenkins cli (org.jenkins-ci.main:cli)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jenkins core (org.jenkins-ci.main:jenkins-core)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jenkins GIT client plugin (org.jenkins-ci.plugins:git-client)</artifactId>
+        <license>The MIT License (MIT)</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jenkins GIT plugin (org.jenkins-ci.plugins:git)</artifactId>
+        <license>The MIT License (MIT)</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jenkins High Availability Logic (com.cloudbees.jenkins.ha:jenkins-ha)</artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jenkins Mailer Plugin (org.jenkins-ci.plugins:mailer)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jenkins Maven 2 PluginManager interceptor (org.jenkins-ci.main.maven:maven-interceptor)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jenkins Maven Embedder (org.jenkins-ci.lib:lib-jenkins-maven-embedder)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jenkins Maven2 CLI agent (org.jenkins-ci.main.maven:maven-agent)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jenkins Maven3 CLI Agent (org.jenkins-ci.main.maven:maven3-agent)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jenkins Maven3 Interceptor (org.jenkins-ci.main.maven:maven3-interceptor)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jenkins Maven3 Interceptor Commons (org.jenkins-ci.main.maven:maven3-interceptor-commons)
+        </artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jenkins Maven3.1.x CLI Agent (org.jenkins-ci.main.maven:maven31-agent)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jenkins Maven3.1.x Interceptor (org.jenkins-ci.main.maven:maven31-interceptor)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jenkins Maven3.2.x CLI Agent (org.jenkins-ci.main.maven:maven32-agent)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jenkins Maven3.2.x Interceptor (org.jenkins-ci.main.maven:maven32-interceptor)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jenkins Mercurial plugin (org.jenkins-ci.plugins:mercurial)</artifactId>
+        <license>MIT</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jenkins Parameterized Trigger plugin (org.jenkins-ci.plugins:parameterized-trigger)</artifactId>
+        <license>The MIT License (MIT)</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jenkins promoted builds plugin (org.jenkins-ci.plugins:promoted-builds)</artifactId>
+        <license>MIT</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jenkins remoting layer (org.jenkins-ci.main:remoting)</artifactId>
+        <license>The MIT license or Apache License 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jenkins SSH Slaves plugin (org.jenkins-ci.plugins:ssh-slaves)</artifactId>
+        <license>MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jenkins Translation Assistance plugin (org.jenkins-ci.plugins:translation)</artifactId>
+        <license>MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jenkins war (org.jenkins-ci.main:jenkins-war)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Jersey Apache HTTP Client (com.sun.jersey.contribs:jersey-apache-client)</artifactId>
+        <license>CDDL 1.1 or GPL2 w/ CPE</license>
+    </artifact>
+    <artifact>
+        <artifactId>jersey-client (com.sun.jersey:jersey-client)</artifactId>
+        <license>CDDL 1.1 or GPL2 w/ CPE</license>
+    </artifact>
+    <artifact>
+        <artifactId>jersey-core (com.sun.jersey:jersey-core)</artifactId>
+        <license>CDDL 1.1 or GPL2 w/ CPE</license>
+    </artifact>
+    <artifact>
+        <artifactId>jffi (com.github.jnr:jffi)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>jfreechart (jfree:jfreechart)</artifactId>
+        <license>GNU Lesser General Public Licence</license>
+    </artifact>
+    <artifact>
+        <artifactId>JGit - Core (org.eclipse.jgit:org.eclipse.jgit)</artifactId>
+        <license>Eclipse Distribution License (New BSD License)</license>
+    </artifact>
+    <artifact>
+        <artifactId>JGit - HTTP Server (org.eclipse.jgit:org.eclipse.jgit.http.server)</artifactId>
+        <license>Eclipse Distribution License (New BSD License)</license>
+    </artifact>
+    <artifact>
+        <artifactId>JGroups (org.jgroups:jgroups)</artifactId>
+        <license>GNU Lesser General Public License 2.1</license>
+    </artifact>
+    <artifact>
+        <artifactId>jinterop-proxy (org.kohsuke.jinterop:jinterop-proxy)</artifactId>
+        <license>MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>JLine (jline:jline)</artifactId>
+        <license>BSD</license>
+    </artifact>
+    <artifact>
+        <artifactId>JmDNS (org.jenkins-ci:jmdns)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>JNA-POSIX (org.jruby.ext.posix:jna-posix)</artifactId>
+        <license>Common Public License - v 1.0 or GNU General Public License Version 2 or GNU Lesser General Public
+            License Version 2.1
+        </license>
+    </artifact>
+    <artifact>
+        <artifactId>jnr-constants (com.github.jnr:jnr-constants)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>jnr-ffi (com.github.jnr:jnr-ffi)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>jnr-posix (com.github.jnr:jnr-posix)</artifactId>
+        <license>Common Public License - v 1.0 or GNU General Public License Version 2 or GNU Lesser General Public
+            License Version 2.1
+        </license>
+    </artifact>
+    <artifact>
+        <artifactId>jnr-unixsocket-nodep (com.cloudbees.util:jnr-unixsocket-nodep)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>jnr-x86asm (com.github.jnr:jnr-x86asm)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Joda time (joda-time:joda-time)</artifactId>
+        <license>Apache 2</license>
+    </artifact>
+    <artifact>
+        <artifactId>JRobin (org.jrobin:jrobin)</artifactId>
+        <license>LGPL</license>
+    </artifact>
+    <artifact>
+        <artifactId>JSch (com.jcraft:jsch)</artifactId>
+        <license>Revised BSD</license>
+    </artifact>
+    <artifact>
+        <artifactId>json-lib (org.kohsuke.stapler:json-lib)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>jsoup (org.jsoup:jsoup)</artifactId>
+        <license>The MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>JSR-250 Common Annotations for the JavaTM Platform (javax.annotation:jsr250-api)</artifactId>
+        <license>COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>jstl (javax.servlet:jstl)</artifactId>
+        <license>Commons Development and Distribution License, Version 1.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>jsync (com.cloudbees:jsync)</artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>JTidy (org.jvnet.hudson:jtidy)</artifactId>
+        <license>Java HTML Tidy License</license>
+    </artifact>
+    <artifact>
+        <artifactId>JUnit (junit:junit)</artifactId>
+        <license>Eclipse Public License 1.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>JUnit Plugin (org.jenkins-ci.plugins:junit)</artifactId>
+        <license>MIT</license>
+    </artifact>
+    <artifact>
+        <artifactId>JVM Integration for Metrics (com.codahale.metrics:metrics-jvm)</artifactId>
+        <license>Apache License 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>JVM Integration for Metrics (io.dropwizard.metrics:metrics-jvm)</artifactId>
+        <license>Apache License 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>JZlib (com.jcraft:jzlib)</artifactId>
+        <license>BSD</license>
+    </artifact>
+    <artifact>
+        <artifactId>LDAP Plugin (org.jenkins-ci.plugins:ldap)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>libzfs-java (org.jvnet.libzfs:libzfs)</artifactId>
+        <license>COMMON DEVELOPMENT AND DISTRIBUTION LICENSE</license>
+    </artifact>
+    <artifact>
+        <artifactId>Localizer (org.jvnet.localizer:localizer)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Log4j Implemented Over SLF4J (org.slf4j:log4j-over-slf4j)</artifactId>
+        <license>Apache Software Licenses</license>
+    </artifact>
+    <artifact>
+        <artifactId>mapdb (org.mapdb:mapdb)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>MapDB API Plugin (org.jenkins-ci.plugins:mapdb-api)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Matrix Authorization Strategy Plugin (org.jenkins-ci.plugins:matrix-auth)</artifactId>
+        <license>MIT</license>
+    </artifact>
+    <artifact>
+        <artifactId>Matrix Project Plugin (org.jenkins-ci.plugins:matrix-project)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Maven Aether Provider (org.apache.maven:maven-aether-provider)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Maven Artifact (org.apache.maven:maven-artifact)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Maven Compat (org.apache.maven:maven-compat)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Maven Core (org.apache.maven:maven-core)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Maven Embedder (org.apache.maven:maven-embedder)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Maven Integration plugin (org.jenkins-ci.main:maven-plugin)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Maven Model (org.apache.maven:maven-model)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Maven Model Builder (org.apache.maven:maven-model-builder)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Maven Plugin API (org.apache.maven:maven-plugin-api)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Maven Reporting API (org.apache.maven.reporting:maven-reporting-api)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Maven Repository Metadata Model (org.apache.maven:maven-repository-metadata)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Maven Settings (org.apache.maven:maven-settings)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Maven Settings Builder (org.apache.maven:maven-settings-builder)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>maven2.1-interceptor (org.jvnet.hudson:maven2.1-interceptor)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>mediawiki.core (com.cloudbees.wikitext:mediawiki.core)</artifactId>
+        <license>Eclipse Public License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Memory Monitor (org.jenkins-ci:memory-monitor)</artifactId>
+        <license>MIT</license>
+    </artifact>
+    <artifact>
+        <artifactId>META-INF/services generator (org.kohsuke.metainf-services:metainf-services)</artifactId>
+        <license>MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Metrics Core (com.codahale.metrics:metrics-core)</artifactId>
+        <license>Apache License 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Metrics Core (io.dropwizard.metrics:metrics-core)</artifactId>
+        <license>Apache License 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Metrics Health Checks (com.codahale.metrics:metrics-healthchecks)</artifactId>
+        <license>Apache License 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Metrics Health Checks (io.dropwizard.metrics:metrics-healthchecks)</artifactId>
+        <license>Apache License 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Metrics Integration for Servlets (com.codahale.metrics:metrics-servlet)</artifactId>
+        <license>Apache License 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Metrics Integration for Servlets (io.dropwizard.metrics:metrics-servlet)</artifactId>
+        <license>Apache License 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Metrics Plugin (org.jenkins-ci.plugins:metrics)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>metrics-elasticsearch-reporter (org.elasticsearch:metrics-elasticsearch-reporter)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Monitoring (org.jvnet.hudson.plugins:monitoring)</artifactId>
+        <license>ASL</license>
+    </artifact>
+    <artifact>
+        <artifactId>MXP1: Xml Pull Parser 3rd Edition (XPP3) (xpp3:xpp3)</artifactId>
+        <license>Indiana University Extreme! Lab Software License, vesion 1.1.1 or Public Domain or Apache Software
+            License, version 1.1
+        </license>
+    </artifact>
+    <artifact>
+        <artifactId>MXP1: Xml Pull Parser 3rd Edition (XPP3) (xpp3:xpp3_min)</artifactId>
+        <license>Indiana University Extreme! Lab Software License, vesion 1.1.1 or Public Domain</license>
+    </artifact>
+    <artifact>
+        <artifactId>Node Iterator API Plugin (org.jenkins-ci.plugins:node-iterator-api)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>OkHttp (com.squareup.okhttp:okhttp)</artifactId>
+        <license>Apache 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>OkHttp URLConnection (com.squareup.okhttp:okhttp-urlconnection)</artifactId>
+        <license>Apache 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Okio (com.squareup.okio:okio)</artifactId>
+        <license>Apache 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>openid (org.jenkins-ci.plugins:openid)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>OpenID4Java API (org.jenkins-ci.plugins:openid4java)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>openid4java shaded (com.cloudbees:openid4java-shaded)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>openid4java-team-extension (com.cloudbees:openid4java-team-extension)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Operations Center Agent (com.cloudbees.operations-center.common:operations-center-agent)
+        </artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Operations Center Analytics Configuration
+            (com.cloudbees.operations-center.common:operations-center-analytics-config)
+        </artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Operations Center Analytics Reporter
+            (com.cloudbees.operations-center.client:operations-center-analytics-reporter)
+        </artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Operations Center Client Plugin (com.cloudbees.operations-center.client:operations-center-client)
+        </artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Operations Center Cloud (com.cloudbees.operations-center.client:operations-center-cloud)
+        </artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Operations Center Context (com.cloudbees.operations-center.common:operations-center-context)
+        </artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Operations Center OpenID Cluster Session Extension
+            (com.cloudbees.operations-center.common:operations-center-openid-cse)
+        </artifactId>
+        <license>CloudBees License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Optional Plugin Helper (org.jenkins-ci.modules:optional-plugin-helper)</artifactId>
+        <license>MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>org.eclipse.sisu.inject (org.eclipse.sisu:org.eclipse.sisu.inject)</artifactId>
+        <license>Eclipse Public License, Version 1.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>org.eclipse.sisu.plexus (org.eclipse.sisu:org.eclipse.sisu.plexus)</artifactId>
+        <license>Eclipse Public License, Version 1.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>oro (oro:oro)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>OWASP HTML Sanitizer (org.kohsuke:owasp-html-sanitizer)</artifactId>
+        <license>MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>OWASP Markup Formatter Plugin (org.jenkins-ci.plugins:antisamy-markup-formatter)</artifactId>
+        <license>MIT</license>
+    </artifact>
+    <artifact>
+        <artifactId>PAM Authentication plugin (org.jenkins-ci.plugins:pam-auth)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Pipeline (formerly known as Workflow) (org.jenkins-ci.plugins.workflow:workflow-aggregator)
+        </artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Pipeline: API (org.jenkins-ci.plugins.workflow:workflow-api)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Pipeline: Basic Steps (org.jenkins-ci.plugins.workflow:workflow-basic-steps)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Pipeline: Durable Task Step (org.jenkins-ci.plugins.workflow:workflow-durable-task-step)
+        </artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Pipeline: Execution Support (org.jenkins-ci.plugins.workflow:workflow-support)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Pipeline: Global Shared Library for CPS pipeline
+            (org.jenkins-ci.plugins.workflow:workflow-cps-global-lib)
+        </artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Pipeline: Groovy CPS Execution (org.jenkins-ci.plugins.workflow:workflow-cps)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Pipeline: Job (org.jenkins-ci.plugins.workflow:workflow-job)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Pipeline: Multibranch (org.jenkins-ci.plugins.workflow:workflow-multibranch)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Pipeline: SCM Step (org.jenkins-ci.plugins.workflow:workflow-scm-step)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Pipeline: Step API (org.jenkins-ci.plugins.workflow:workflow-step-api)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Plain Credentials Plugin (org.jenkins-ci.plugins:plain-credentials)</artifactId>
+        <license>MIT</license>
+    </artifact>
+    <artifact>
+        <artifactId>Plexus :: Component Annotations (org.codehaus.plexus:plexus-component-annotations)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Plexus Cipher: encryption/decryption Component (org.sonatype.plexus:plexus-cipher)</artifactId>
+        <license>Apache Public License 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Plexus Classworlds (org.codehaus.plexus:plexus-classworlds)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Plexus Common Utilities (org.codehaus.plexus:plexus-utils)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Plexus Default Interactivity Handler (org.codehaus.plexus:plexus-interactivity-api)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Plexus Interpolation API (org.codehaus.plexus:plexus-interpolation)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Plexus Security Dispatcher Component (org.sonatype.plexus:plexus-sec-dispatcher)</artifactId>
+        <license>Apache Public License 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Pure Java - COM bridge (org.kohsuke.jinterop:j-interop)</artifactId>
+        <license>LGPL, v3</license>
+    </artifact>
+    <artifact>
+        <artifactId>Pure Java - COM bridge (org.kohsuke.jinterop:j-interopdeps)</artifactId>
+        <license>The Guile License (http://www.gnu.org/software/guile/docs/docs-1.6/guile-ref/Guile-License.html)
+        </license>
+    </artifact>
+    <artifact>
+        <artifactId>PuTTY support for Trilead SSH2 library (org.kohsuke:trilead-putty-extension)</artifactId>
+        <license>MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Quality-Check (net.sf.qualitycheck:quality-check)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>relaxngDatatype (relaxngDatatype:relaxngDatatype)</artifactId>
+        <license>undefined</license>
+    </artifact>
+    <artifact>
+        <artifactId>Robust HTTP client library (org.jvnet.robust-http-client:robust-http-client)</artifactId>
+        <license>MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>SCM API Plugin (org.jenkins-ci.plugins:scm-api)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Script Security Plugin (org.jenkins-ci.plugins:script-security)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>SezPoz Library (net.java.sezpoz:sezpoz)</artifactId>
+        <license>CDDL or GPL 2 with Classpath Exception</license>
+    </artifact>
+    <artifact>
+        <artifactId>SLF4J API Module (org.slf4j:slf4j-api)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>SLF4J JDK14 Binding (org.slf4j:slf4j-jdk14)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Spring Framework: AOP (org.springframework:spring-aop)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Spring Framework: Beans (org.springframework:spring-beans)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Spring Framework: Context (org.springframework:spring-context)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Spring Framework: Context Support (org.springframework:spring-context-support)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Spring Framework: Core (org.springframework:spring-core)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Spring Framework: DAO (org.springframework:spring-dao)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Spring Framework: JDBC (org.springframework:spring-jdbc)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Spring Framework: Web (org.springframework:spring-web)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Spring Framework: Web MVC (org.springframework:spring-webmvc)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>SSH Agent Plugin (org.jenkins-ci.plugins:ssh-agent)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>SSH Credentials Plugin (org.jenkins-ci.plugins:ssh-credentials)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Stack Trace Suppression Plugin (org.jenkins-ci.plugins:suppress-stack-trace)</artifactId>
+        <license>MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Stapler (org.kohsuke.stapler:stapler)</artifactId>
+        <license>2-clause BSD license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Stapler adjunct for ZeroClipboard (org.kohsuke.stapler:stapler-adjunct-zeroclipboard)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Stapler Groovy module (org.kohsuke.stapler:stapler-groovy)</artifactId>
+        <license>2-clause BSD license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Stapler Jelly module (org.kohsuke.stapler:stapler-jelly)</artifactId>
+        <license>2-clause BSD license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Stapler JRebel module (org.kohsuke.stapler:stapler-jrebel)</artifactId>
+        <license>2-clause BSD license</license>
+    </artifact>
+    <artifact>
+        <artifactId>StAX API (stax:stax-api)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Streaming API for XML (javax.xml.stream:stax-api)</artifactId>
+        <license>Sun Binary Code License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Support Core Plugin (org.jenkins-ci.plugins:support-core)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Task Reactor (org.jenkins-ci:task-reactor)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Test annotations (org.jenkins-ci:test-annotations)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>textile.core (com.cloudbees.wikitext:textile.core)</artifactId>
+        <license>Eclipse Public License</license>
+    </artifact>
+    <artifact>
+        <artifactId>The Legion of the Bouncy Castle's lightweight cryptography API shaded into a cloudbees package name
+            (com.cloudbees.bouncycastle:lcrypto-jdk15on)
+        </artifactId>
+        <license>MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>The Netty Project (io.netty:netty)</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Timeline component at http://www.simile-widgets.org/timeline/
+            (org.kohsuke.stapler:stapler-adjunct-timeline)
+        </artifactId>
+        <license>BSD License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Token Macro Plugin (org.jenkins-ci.plugins:token-macro)</artifactId>
+        <license>The MIT License (MIT)</license>
+    </artifact>
+    <artifact>
+        <artifactId>tomcat-apr (tomcat:tomcat-apr)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>tracwiki.core (com.cloudbees.wikitext:tracwiki.core)</artifactId>
+        <license>Eclipse Public License</license>
+    </artifact>
+    <artifact>
+        <artifactId>twiki.core (com.cloudbees.wikitext:twiki.core)</artifactId>
+        <license>Eclipse Public License</license>
+    </artifact>
+    <artifact>
+        <artifactId>TXW2 Runtime (com.sun.xml.txw2:txw2)</artifactId>
+        <license>CDDL v1.1 / GPL v2 dual license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Type arithmetic library for Java5 (org.jvnet:tiger-types)</artifactId>
+        <license>COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.1</license>
+    </artifact>
+    <artifact>
+        <artifactId>UADetector :: Core (net.sf.uadetector:uadetector-core)</artifactId>
+        <license>The Apache Software License, Version 2.0 or GNU Lesser General Public License</license>
+    </artifact>
+    <artifact>
+        <artifactId>UADetector :: Resources (net.sf.uadetector:uadetector-resources)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Unique ID Library Plugin (org.jenkins-ci.plugins:unique-id)</artifactId>
+        <license>MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>unix-socket-factory (de.gesellix:unix-socket-factory)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Utility around Java Crypto API (org.jenkins-ci:crypto-util)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Version number manipulation (org.jenkins-ci:version-number)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>VMware VI (vSphere) Java API (com.vmware:vijava)</artifactId>
+        <license>BSD style license</license>
+    </artifact>
+    <artifact>
+        <artifactId>Windows Slaves Plugin (org.jenkins-ci.plugins:windows-slaves)</artifactId>
+        <license>MIT</license>
+    </artifact>
+    <artifact>
+        <artifactId>windows-package-checker (org.kohsuke:windows-package-checker)</artifactId>
+        <license>MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>windows-remote-command (org.jenkins-ci:windows-remote-command)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>winp (org.jvnet.winp:winp)</artifactId>
+        <license>The MIT license</license>
+    </artifact>
+    <artifact>
+        <artifactId>WMI for j-interop (org.jenkins-ci:jinterop-wmi)</artifactId>
+        <license>Eclipse Public License EPLv1.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Woodstox (org.codehaus.woodstox:wstx-asl)</artifactId>
+        <license>The Apache Software License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <artifactId>Workflow: Groovy CPS Execution (org.jenkins-ci.plugins.workflow:workflow-cps)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>Workflow: Step API (org.jenkins-ci.plugins.workflow:workflow-step-api)</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <artifactId>XML Pull Parsing API (xmlpull:xmlpull)</artifactId>
+        <license>Public Domain</license>
+    </artifact>
+    <artifact>
+        <artifactId>XStream Core (org.jvnet.hudson:xstream)</artifactId>
+        <license>BSD style</license>
+    </artifact>
+    <artifact>
+        <artifactId>XZ for Java (org.tukaani:xz)</artifactId>
+        <license>Public Domain</license>
+    </artifact>
+</artifacts>

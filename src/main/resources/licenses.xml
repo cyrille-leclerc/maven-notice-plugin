@@ -1294,6 +1294,7 @@ permission of the Apache Software Foundation.
         <synonym>COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.1</synonym>
         <synonym>Commons Development and Distribution License, Version 1.0</synonym>
         <synonym>NetBeans CDDL/GPL</synonym>
+        <synonym>Common Development and Distribution License (CDDL) v1.0</synonym>
     </synonyms>
     <content>
         <![CDATA[
@@ -1780,6 +1781,9 @@ This Agreement is governed by the laws of the State of New York and the intellec
 </license>
 <license>
     <name>MIT License</name>
+    <synonyms>
+        <synonym>MIT license</synonym>
+    </synonyms>
     <groupId>org.slf4j</groupId>
     <licenseUrl>http://www.slf4j.org/license.html</licenseUrl>
     <content>
@@ -1818,6 +1822,7 @@ This Agreement is governed by the laws of the State of New York and the intellec
         <synonym>MIT license</synonym>
     </synonyms>
     <groupId>org.jenkins-ci</groupId>
+    <groupId>org.jenkins-ci.lib</groupId>
     <groupId>org.jenkins-ci.main</groupId>
     <groupId>org.jenkins-ci.main.maven</groupId>
     <groupId>org.jenkins-ci.ui</groupId>
@@ -3211,6 +3216,9 @@ READ THE TERMS OF THIS AGREEMENT AND ANY PROVIDED SUPPLEMENTAL LICENSE TERMS (CO
 
     <license>
         <name>BSD License</name>
+        <synonyms>
+            <synonym>The BSD License</synonym>
+        </synonyms>
         <groupId>org.kohsuke.stapler</groupId>
         <artifactId>stapler-adjunct-timeline</artifactId>
         <content><![CDATA[
@@ -4289,6 +4297,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
     <license>
         <name>BSD</name>
+        <groupId>jline</groupId>
+        <artifactId>jline</artifactId>
         <content><![CDATA[
 Copyright (c) 2002-2006, Marc Prud'hommeaux <mwp1@cornell.edu>
 All rights reserved.
